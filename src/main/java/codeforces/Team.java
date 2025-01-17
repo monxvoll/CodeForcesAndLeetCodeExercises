@@ -1,3 +1,5 @@
+package codeforces;
+
 import java.util.Scanner;
 
 public class Team {
@@ -5,7 +7,7 @@ public class Team {
         Scanner scanner = new Scanner(System.in);
         int contestNumber,petyaView,vasyasView,tonyaView,problemsNumber = 0;
         contestNumber = scanner.nextInt();
-        
+
         for (int i = 0; i < contestNumber ; i++) {
             petyaView = scanner.nextInt();
             vasyasView = scanner.nextInt();

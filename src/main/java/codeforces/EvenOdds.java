@@ -1,3 +1,5 @@
+package codeforces;
+
 import java.util.*;
 public class EvenOdds {
     public static void main(String[] args) {

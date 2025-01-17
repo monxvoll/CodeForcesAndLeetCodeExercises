@@ -1,3 +1,5 @@
+package codeforces;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -11,7 +13,7 @@ public class Magnets {
         int result = 1;
         int iteratorA = 1;
         int iteratorB = 2;
-        
+
         for (int i = 0; i < n ; i++) {
             String pole = scanner.nextLine();
             char poleA = pole.charAt(0);

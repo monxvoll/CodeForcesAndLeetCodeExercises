@@ -1,3 +1,5 @@
+package codeforces;
+
 import java.util.Scanner;
 
 public class StonesOnTheTable {
@@ -7,7 +9,7 @@ public class StonesOnTheTable {
         scanner.nextLine();
         String stones = scanner.nextLine();
         int mStones = 0;
-        
+
         for (int i = 0; i < nStones-1; i++) {
             if(stones.charAt(i)==stones.charAt(i+1)){
                 mStones++;

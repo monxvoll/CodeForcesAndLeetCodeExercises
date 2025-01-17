@@ -1,9 +1,11 @@
+package codeforces;
+
 import java.util.Scanner;
 public class TenzingAndTsondu {
         public static void main(String args[]) {
             Scanner scanner = new Scanner(System.in);
             int rounds = scanner.nextInt();
-            
+
             for(int i = 0 ; i<rounds; i++){
                 int nTsonduMonsters = scanner.nextInt();
                 int mTenzingMonsters = scanner.nextInt();
