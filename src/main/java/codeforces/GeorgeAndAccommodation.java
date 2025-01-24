@@ -3,6 +3,7 @@ package codeforces;
 import java.util.Scanner;
 
 public class GeorgeAndAccommodation {
+    //Problem - 467A
     public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
             Long totalRooms = scanner.nextLong();

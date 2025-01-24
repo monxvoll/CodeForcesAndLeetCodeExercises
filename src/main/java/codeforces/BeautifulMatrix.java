@@ -3,6 +3,7 @@ package codeforces;
 import java.util.Scanner;
 
 public class BeautifulMatrix {
+    //Problem 263A
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[][] array = new int[5][5];

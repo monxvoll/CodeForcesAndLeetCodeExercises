@@ -2,6 +2,7 @@ package codeforces;
 
 import java.util.*;
 public class EvenOdds {
+    //Problem - 318A
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Long integerN;

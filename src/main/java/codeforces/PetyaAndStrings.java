@@ -3,6 +3,7 @@ package codeforces;
 import java.util.Scanner;
 
 public class PetyaAndStrings {
+    //Problem - 112A
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String firstWord = scanner.nextLine().toLowerCase();

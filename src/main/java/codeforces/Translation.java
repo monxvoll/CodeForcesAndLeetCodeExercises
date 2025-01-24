@@ -4,6 +4,7 @@ import java.util.Objects;
 import java.util.Scanner;
 
 public class Translation {
+    //Problem - 41A
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String word = scanner.nextLine();

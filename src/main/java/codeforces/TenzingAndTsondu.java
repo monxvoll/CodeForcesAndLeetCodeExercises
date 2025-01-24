@@ -2,6 +2,7 @@ package codeforces;
 
 import java.util.Scanner;
 public class TenzingAndTsondu {
+    //Problem - 1842A
         public static void main(String args[]) {
             Scanner scanner = new Scanner(System.in);
             int rounds = scanner.nextInt();

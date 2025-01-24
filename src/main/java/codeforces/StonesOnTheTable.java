@@ -3,6 +3,7 @@ package codeforces;
 import java.util.Scanner;
 
 public class StonesOnTheTable {
+    //Problem - 266A
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int nStones = scanner.nextInt();

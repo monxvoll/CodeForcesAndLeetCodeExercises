@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class BattleForSurvive {
+    //Problem - 2013B
     public static void main(String[] args) {
         List<Long> list = new ArrayList<>();
         List<Long> listB = new ArrayList<>();

@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Magnets {
+    //Problem - 344A
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         List<Character> poles = new ArrayList<>();

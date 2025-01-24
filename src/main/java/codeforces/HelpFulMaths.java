@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 public class HelpFulMaths {
+    //Problem - 339A
     static List<Integer> extractedNumbers = new ArrayList<>();
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
