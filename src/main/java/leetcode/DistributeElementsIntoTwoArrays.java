@@ -1,8 +1,4 @@
 package leetcode;
-
-
-
-
 public class DistributeElementsIntoTwoArrays {
 //3069. Distribute Elements Into Two Arrays I
     class Solution {
