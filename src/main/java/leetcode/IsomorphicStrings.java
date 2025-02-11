@@ -4,7 +4,7 @@ import java.util.*;
 
 public class IsomorphicStrings {
     //205. Isomorphic Strings
-    static class Solution {
+     class Solution {
         public  boolean isIsomorphic(String s, String t) {
             Map<Character, Character> map = new HashMap<>();
             Set<Character> usedValues = new HashSet<>();

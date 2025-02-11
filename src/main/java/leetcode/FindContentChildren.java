@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class FindContentChildren {
 //455. Assign Cookies
-    static class Solution {
+     class Solution {
         public int findContentChildren(int[] g, int[] s) {
             Arrays.sort(s); Arrays.sort(g);
             int n = 0;
